@@ -1,6 +1,7 @@
 # Computational Physics Simulations
 
-A comprehensive collection of computational physics simulations and numerical methods implemented in Python, showcasing various phenomena from statistical mechanics to complex systems.
+A comprehensive collection of computational physics simulations and numerical methods implemented in Python, which I did during my undergraduate studies.
+This collection showcases various phenomena from statistical mechanics to complex systems.
 
 ## 🔬 Overview
 
@@ -82,36 +83,7 @@ import random              # Random number generation
 - **Parameter Studies**: Systematic analysis of model parameters  
 - **Statistical Analysis**: Quantitative characterization of phenomena
 - **Performance Optimization**: Efficient algorithms for large-scale simulations
-- **Educational Content**: Clear explanations of physical principles
 
-## 🎯 Highlights for Recruiters
-
-### Programming Skills Demonstrated
-- **Python Proficiency**: Advanced NumPy, SciPy, and Matplotlib usage
-- **Algorithm Implementation**: From scratch implementations of complex algorithms
-- **Data Analysis**: Statistical analysis and visualization of simulation results
-- **Performance Optimization**: Efficient numerical methods and vectorization
-
-### Physics & Mathematics Knowledge
-- **Statistical Mechanics**: Phase transitions, critical phenomena, ensemble methods
-- **Stochastic Processes**: Random walks, Monte Carlo methods, Markov chains
-- **Complex Systems**: Emergent behavior, scaling laws, universality
-- **Numerical Methods**: ODE/PDE solving, optimization, root finding
-
-### Research & Problem-Solving Skills
-- **Scientific Method**: Hypothesis testing through computational experiments
-- **Parameter Space Exploration**: Systematic studies of model behavior
-- **Data Interpretation**: Drawing physical insights from numerical results
-- **Documentation**: Clear presentation of methods and results
-
-## 📈 Sample Results
-
-Each simulation includes:
-- Theoretical background and motivation
-- Implementation details and algorithms
-- Parameter studies and sensitivity analysis  
-- Visualizations and statistical analysis
-- Physical interpretation of results
 
 ## 🔗 Connect
 
